@@ -1,0 +1,7 @@
+{
+  "name": "GeoElegant Explorer",
+  "description": "A professional and elegant mapping platform with AI-powered location insights, featuring a collapsible sidebar and seamless OpenStreetMap integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
